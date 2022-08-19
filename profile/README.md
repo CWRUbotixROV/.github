@@ -1,3 +1,8 @@
+### THIS ORGANIZATION IS AN ARCHIVE
+Links are broken, repos don't exist, the whole shebang. You probably wanted to visit the main [CWRUBotix organization](https://github.com/cwruRobotics).
+The remainder of this file is the old readme.
+***
+
 # CWRUBotix MATE ROV
 [Competition link](https://materovcompetition.org/explorerspecs)
 
